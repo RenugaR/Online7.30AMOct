@@ -7,11 +7,12 @@ public class HdfcBank {
 	public void deposit() {
 		// business logic
 		System.out.println("Deposit");// To print the output
+		System.out.println("Fixed Deposit");
 	}
 
 	public void withDraw() {
 		System.out.println("WithDraw");
-		System.out.println();
+		System.out.println("RD");
 	}
 
 	// To run the program-->right click class-->run as-->java application
