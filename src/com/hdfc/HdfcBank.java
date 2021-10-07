@@ -7,6 +7,7 @@ public class HdfcBank {
 	public void deposit() {
 		// business logic
 		System.out.println("Deposit");// To print the output
+		System.out.println("Hello");
 	}
 
 	public void withDraw() {
