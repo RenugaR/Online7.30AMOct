@@ -2,15 +2,27 @@ package com.hdfc;
 
 //className-->HdfcBank
 public class HdfcBank {
-	// Method
-	// Type method name and click control+spacebar then click enter
+
+	private void interest() {
+		System.out.println("Interest");
+	}
+
 	public void deposit() {
 		// business logic
 		System.out.println("Deposit");// To print the output
 		System.out.println("Fixed Deposit");
+		System.out.println();
+		System.out.println();
+		System.out.println();
+		System.out.println();
+		System.out.println();
 	}
 
 	public void withDraw() {
+		System.out.println();
+		System.out.println();
+		System.out.println();
+		System.out.println();
 		System.out.println("WithDraw");
 		System.out.println("RD");
 	}
