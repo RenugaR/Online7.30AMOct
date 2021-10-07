@@ -18,12 +18,6 @@ public class HdfcBank {
 	public void deposit() {
 		// business logic
 		System.out.println("Deposit");// To print the output
-		System.out.println("Fixed Deposit");
-		System.out.println();
-		System.out.println();
-		System.out.println();
-		System.out.println();
-		System.out.println();
 	}
 
 	public void withDraw() {
