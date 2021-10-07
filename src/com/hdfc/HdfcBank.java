@@ -6,6 +6,14 @@ public class HdfcBank {
 	private void interest() {
 		System.out.println("Interest");
 	}
+	
+	private void deposit2() {
+		System.out.println("Deposit");
+	}
+	
+	private void withDrawal() {
+		System.out.println("Withdraw");
+	}
 
 	public void deposit() {
 		// business logic
